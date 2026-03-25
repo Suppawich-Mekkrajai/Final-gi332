@@ -3,24 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-<<<<<<< HEAD
   tags: []
-=======
-  tags:
-  - Ground
->>>>>>> 22e4a81e9816538c23b75fa60515c85b5cef35d7
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-<<<<<<< HEAD
-  - floor
-=======
-  - Ground
->>>>>>> 22e4a81e9816538c23b75fa60515c85b5cef35d7
+  - 
   - Water
   - UI
-  - sky
+  - 
   - 
   - 
   - 
@@ -50,14 +41,5 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-<<<<<<< HEAD
-  - name: sky
-    uniqueID: 2315838891
-    locked: 0
-  - name: floor
-    uniqueID: 34531297
-    locked: 0
-=======
->>>>>>> 22e4a81e9816538c23b75fa60515c85b5cef35d7
   m_RenderingLayers:
   - Default
